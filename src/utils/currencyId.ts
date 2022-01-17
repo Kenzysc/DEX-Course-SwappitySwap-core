@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@violeta.at.bww/swappityswap'
+import { Currency, ETHER, Token } from '@kenzysc/u-exchange-sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'

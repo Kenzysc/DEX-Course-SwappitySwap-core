@@ -1,7 +1,16 @@
 {
-  "factory_contract_address": "0x9d46d3240B1Be5865297D5C2136EB7583CB6F09E",
-  "pair_init_code_hash": "0x45c2e84b5d005b77822428b2bf75609ac4643787ad2533d643598124ade9fa6c",
-  "router_contract_address": "0x9b9edd97d99B1db409f44902878596993AFCdd2E",
-  "WETH": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-  "feeToSetter": "0xa7910BEF6dfdFC0d35962bEE7f8716BBBcDA1330"
+  "factory_contract_address": "0x21F9a8106BcE5830C4C8fE3883516ff3ea65Bc09",
+  "pair_init_code_hash": "0xad08ac8e4fb74c4606c9209b03697bb03c63283c2d48cd0510839a2953471c9e",
+  "router_contract_address": "0x111b0b16ccfCb4fa04621CC0dBDe23509F03E098",
+  "WXDAI": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+  "WETH_RINKEBY": "0xc778417e063141139fce010982780140aa0cd5ab",
+  "WMATIC": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+  "W_ETHERIUM": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "feeToSetter": "0xA10A3f080d62DD450AcE982C283Df97A52d7882d",
+  "old_sdk": "@swappityswap-dev/sdk",
+  "new_sdk": "@kenzysc/u-exchange-sdk 1.11.1"
 }
+
+
+// cd src
+// find . -type f -print -exec sed -i s,'\@udotcash\/u\-exchange\-sdk','\@violeta\.at\.bww\/dex\-course\-u\-exchange\-sdk',g {} \;

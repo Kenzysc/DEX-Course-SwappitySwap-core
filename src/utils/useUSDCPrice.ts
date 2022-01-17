@@ -1,4 +1,4 @@
-import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from '@violeta.at.bww/swappityswap'
+import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from '@kenzysc/u-exchange-sdk'
 import { useMemo } from 'react'
 import { USDC } from '../constants'
 import { PairState, usePairs } from '../data/Reserves'

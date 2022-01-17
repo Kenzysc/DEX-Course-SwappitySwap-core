@@ -1981,6 +1981,19 @@
     "@babel/runtime" "^7.7.2"
     core-js "^3.4.1"
 
+"@kenzysc/u-exchange-sdk@1.11.2":
+  version "1.11.2"
+  resolved "https://registry.yarnpkg.com/@kenzysc/u-exchange-sdk/-/u-exchange-sdk-1.11.2.tgz#5493e3c84f4e74f12526ab770bd25a9469095cab"
+  integrity sha512-nZNUqc44G9Zhiq7yUIrW21tEw+VHBCHU4RbcbKAC9Ao5mhxmuvwlwQuXXjht6fkyjdem/9iwAGRr1wHXwEd3Ig==
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npmjs.org/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz"
@@ -2744,19 +2757,6 @@
   dependencies:
     "@uniswap/lib" "1.1.1"
     "@uniswap/v2-core" "1.0.0"
-
-"@violeta.at.bww/swappityswap@10.0.0":
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/@violeta.at.bww/swappityswap/-/swappityswap-10.0.0.tgz#6598d0fb3ae666422ef89f0a8cc4b048576eaaf0"
-  integrity sha512-QuWW9HW2sMWiOHQrx6kHVGk1bXJc1WVdKJHbjzBdIq4reTlumKBGGHSoa7nuiwuQbv1gs/pzXzao4IvVSg4VPw==
-  dependencies:
-    "@uniswap/v2-core" "^1.0.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
 
 "@walletconnect/client@^1.1.1-alpha.0":
   version "1.1.1-alpha.0"

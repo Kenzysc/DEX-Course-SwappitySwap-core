@@ -1,4 +1,4 @@
-import { ChainId, Pair, Token } from '@violeta.at.bww/swappityswap'
+import { ChainId, Pair, Token } from '@kenzysc/u-exchange-sdk'
 import flatMap from 'lodash.flatmap'
 import ReactGA from 'react-ga'
 import { useCallback, useMemo } from 'react'

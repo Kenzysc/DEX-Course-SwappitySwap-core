@@ -1,4 +1,4 @@
-import { Currency, Pair } from '@violeta.at.bww/swappityswap'
+import { Currency, Pair } from '@kenzysc/u-exchange-sdk'
 import React, { useState, useCallback } from 'react'
 import styled from 'styled-components'
 import { darken } from 'polished'

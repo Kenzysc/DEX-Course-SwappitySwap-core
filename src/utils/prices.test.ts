@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@violeta.at.bww/swappityswap'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@kenzysc/u-exchange-sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

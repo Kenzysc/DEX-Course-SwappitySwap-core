@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@violeta.at.bww/swappityswap'
+import { Token, TokenAmount } from '@kenzysc/u-exchange-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

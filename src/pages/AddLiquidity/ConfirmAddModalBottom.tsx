@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@violeta.at.bww/swappityswap'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@kenzysc/u-exchange-sdk'
 import React from 'react'
 import { Text } from 'rebass'
 import { ButtonPrimary } from '../../components/Button'

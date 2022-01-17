@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@violeta.at.bww/swappityswap'
+import { currencyEquals, Trade } from '@kenzysc/u-exchange-sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

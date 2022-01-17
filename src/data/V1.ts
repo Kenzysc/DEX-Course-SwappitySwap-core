@@ -12,7 +12,7 @@ import {
   Trade,
   TradeType,
   WETH
-} from '@violeta.at.bww/swappityswap'
+} from '@kenzysc/u-exchange-sdk'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'

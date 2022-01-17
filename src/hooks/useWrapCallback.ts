@@ -1,4 +1,4 @@
-import { Currency, currencyEquals, ETHER, WETH } from '@violeta.at.bww/swappityswap'
+import { Currency, currencyEquals, ETHER, WETH } from '@kenzysc/u-exchange-sdk'
 import { useMemo } from 'react'
 import { tryParseAmount } from '../state/swap/hooks'
 import { useTransactionAdder } from '../state/transactions/hooks'

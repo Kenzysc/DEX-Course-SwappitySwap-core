@@ -1,4 +1,4 @@
-import { ChainId } from '@violeta.at.bww/swappityswap'
+import { ChainId } from '@kenzysc/u-exchange-sdk'
 import { FortmaticConnector as FortmaticConnectorCore } from '@web3-react/fortmatic-connector'
 
 export const OVERLAY_READY = 'OVERLAY_READY'

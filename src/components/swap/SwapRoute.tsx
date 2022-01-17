@@ -1,4 +1,4 @@
-import { Trade } from '@violeta.at.bww/swappityswap'
+import { Trade } from '@kenzysc/u-exchange-sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex } from 'rebass'

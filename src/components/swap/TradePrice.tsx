@@ -1,5 +1,5 @@
 import React from 'react'
-import { Price } from '@violeta.at.bww/swappityswap'
+import { Price } from '@kenzysc/u-exchange-sdk'
 import { useContext } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

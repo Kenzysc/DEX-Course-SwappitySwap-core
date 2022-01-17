@@ -1,4 +1,4 @@
-import { ChainId, TokenAmount } from '@violeta.at.bww/swappityswap'
+import { ChainId, TokenAmount } from '@kenzysc/u-exchange-sdk'
 import React, { useMemo } from 'react'
 import { X } from 'react-feather'
 import styled from 'styled-components'
