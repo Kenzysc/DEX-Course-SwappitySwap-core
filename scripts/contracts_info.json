@@ -11,6 +11,5 @@
   "new_sdk": "@kenzysc/u-exchange-sdk 1.11.1"
 }
 
-
 // cd src
 // find . -type f -print -exec sed -i s,'\@udotcash\/u\-exchange\-sdk','\@violeta\.at\.bww\/dex\-course\-u\-exchange\-sdk',g {} \;
